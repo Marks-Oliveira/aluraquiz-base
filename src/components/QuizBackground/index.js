@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const QuizBackground = styled.div `
+const QuizBackground = styled.div`
   width: 100%;
   background-size: cover;
   background-position: center;
@@ -33,6 +33,6 @@ const QuizBackground = styled.div `
       z-index: 10;
     }
   }
-`
+`;
 
 export default QuizBackground;
